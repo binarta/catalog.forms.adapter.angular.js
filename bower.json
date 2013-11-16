@@ -1,0 +1,19 @@
+{
+    "name": "binarta.catalog.field.adapter.angular",
+    "version": "0.0.0",
+    "main": "./src/catalog.field.adapter.js",
+    "dependencies": {
+        "angular": "1.0.7"
+    },
+    "devDependencies": {
+        "angular-mocks": "1.0.7",
+        "thk-notifications-mock":"0.0.0"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
